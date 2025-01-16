@@ -1,2 +1,3 @@
-# Adidas-Sales-Analysis
-The dashboard provides a comprehensive overview of Adidas's sales performance. Key metrics include total sales, operating profit, units sold, price per unit, and operating margin. The dashboard displays trends in sales by month, region, product, and retailer. A map of the US highlights sales performance by state.
+# Adidas-Sales-Analys(interaction dashboard creation using power bi)
+## objective
+ Adidas Sales Analysis is to provide actionable insights into sales performance, enabling data-driven decision-making to optimize revenue, improve customer satisfaction, and strengthen market position.
