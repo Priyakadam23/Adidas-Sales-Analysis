@@ -17,3 +17,5 @@
 3.Total sales by region (Donut chart)
 4.Total sales by product (Bar chart)
 5.Total sales by retailer (Bar chart)
+## Dashboard
+![adidas dashboard](https://github.com/user-attachments/assets/904b26dc-4f98-48b0-9e7b-8bbe199d310a)
