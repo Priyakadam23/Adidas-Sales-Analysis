@@ -19,5 +19,9 @@
 5.Total sales by retailer (Bar chart)
 ## Dashboard
 ![adidas dashboard](https://github.com/user-attachments/assets/904b26dc-4f98-48b0-9e7b-8bbe199d310a)
+## Project Insights
+Adidas achieved a total of $900M in sales with an operating profit of $332M in the year 2021.
+The sales are highest in July and August, and lowest in October.
+The top selling product was Men's Street Fashion, with $209M in sales.
 ## Final Conclusion
 The Adidas Sales Analysis Dashboard provides a comprehensive view of the company’s sales performance across various dimensions, offering actionable insights to support strategic decision-making. The analysis reveals key strengths, areas for improvement, and opportunities for growth.
